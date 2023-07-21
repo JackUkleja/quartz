@@ -2,7 +2,7 @@ name: Jack Ukleja
 enableToc: true
 openToc: false
 enableLinkPreview: true
-enableLatex: true
+enableLatex: false
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/jackukleja/quartz/tree/hugo/content
 search:
