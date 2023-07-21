@@ -61,6 +61,7 @@
   <link href="{{$lightSyntax.Permalink}}" rel="stylesheet" id="theme-link">
 
    <!-- Base scripts -->
+  {{ template "_internal/google_analytics.html" . }}
   {{$scripts := (slice "js/darkmode.js" "js/util.js")}}
   {{range $scripts}}
   {{$scriptname := .}}

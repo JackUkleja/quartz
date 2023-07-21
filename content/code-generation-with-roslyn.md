@@ -51,19 +51,19 @@ My conclusion after a few weeks playing around is that using a combination of i
 * If you are parsing a whole block of code for a method body then you will want to parse it as a `GlobalStatementSyntax ` and then access the `Statement` property as a `BlockSyntax`.
 * Use a helper method to parse single `SyntaxNode`s:
 ```csharp
-        private static TSyntax ParseText<TSyntax>(string code, bool asScript = false)
-        {
-            var options = asScript
-                ? CSharpParseOptions.Default.WithKind(SourceCodeKind.Script)
-                : CSharpParseOptions.Default;
-    
-            var syntaxNodes =
-                CSharpSyntaxTree.ParseText(code, options)
-                    .GetRoot()
-                    .ChildNodes();
-    
-            return syntaxNodes.OfType<TSyntax>().First();
-        }
+private static TSyntax ParseText<TSyntax>(string code, bool asScript = false)
+{
+    var options = asScript
+        ? CSharpParseOptions.Default.WithKind(SourceCodeKind.Script)
+        : CSharpParseOptions.Default;
+
+    var syntaxNodes =
+        CSharpSyntaxTree.ParseText(code, options)
+            .GetRoot()
+            .ChildNodes();
+
+    return syntaxNodes.OfType<TSyntax>().First();
+}
 ```
 * When building `SyntaxNode`s by hand you will typically want to make a final call to `SyntaxTree.NormalizeWhitespace(elasticTrivia: true)` to make the code "round-trippable".
 * Typically you will want to use `SyntaxNode.ToFullString()` to get the actual code text including trivia.	
