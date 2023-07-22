@@ -170,13 +170,6 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       // SPA navigation
       const targ = `${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`
       window.Million.navigate(new URL(targ), ".singlePage")
-      plausible("Link Click", {
-        props: {
-          href: targ,
-          broken: false,
-          internal: true,
-          graph: true,
-        }
       })
     })
     .on("mouseover", function(_, d) {

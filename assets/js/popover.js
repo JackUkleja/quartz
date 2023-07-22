@@ -64,11 +64,6 @@ function initPopover(baseURL, useContextualBacklinks) {
             })
 
             el.classList.add("visible")
-            plausible("Popover Hover", {
-              props: {
-                href: li.dataset.src 
-              }
-            })
           })
           li.addEventListener("mouseout", () => {
             el.classList.remove("visible")
