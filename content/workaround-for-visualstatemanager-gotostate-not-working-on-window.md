@@ -7,6 +7,8 @@ categories:
 tags:
 - wpf
 comments: true
+aliases:
+- /blog/test
 ---
 
 I am not sure if this is a bug or what, but I’ve had an annoying problem today whereby it seems you are unable to switch states procedurally using code like this:
