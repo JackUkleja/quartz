@@ -6,6 +6,8 @@ categories:
 - Uncategorized
 tags: []
 comments: true
+alias:
+- economics-of-microsoft-surface
 ---
 
 <span style="color: #339966;"><span style="color: #ff0000;">This is a post I wrote August 2009 but never got around to publishing. Whilst spring cleaning my drafts, I re-read it and decided it wasn't that bad, so here it is. I wonder if the issues are still the same in 2011....</span></span>
