@@ -8,6 +8,8 @@ tags:
 - ericsson
 - lenovo
 comments: true
+aliases:
+    - ../how-to-get-ericsson-f3507g-mobile-broadband-card-working-on-windows-7-lenovo-thinkpad-t400s
 ---
 
 <span style="color: #ff0000;"><strong>Update: A new driver has been released which uses the Windows 7 Mobile Broadband driver framework. Please <a href="http://jack.ukleja.com/update-ericsson-f3507g-mobile-broadband-on-windows-7-with-lenovo-thinkpad/">see my new article</a>. Note: Information and comments on this article could still be relevant to you so read on...</strong></span>

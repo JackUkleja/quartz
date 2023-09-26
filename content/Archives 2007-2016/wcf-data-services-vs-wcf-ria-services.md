@@ -6,6 +6,8 @@ categories:
 - Uncategorized
 tags: []
 comments: true
+aliases:
+    - ../wcf-data-services-vs-wcf-ria-services.md
 ---
 
 I’ve been having trouble finding a straight forward comparison of these two technologies. On the surface they appear to be solving similar, if not the same problems.

@@ -6,6 +6,8 @@ categories:
 - Uncategorized
 tags: []
 comments: true
+aliases:
+    - ../microsoft-surface-development-goes-public
 ---
 
 

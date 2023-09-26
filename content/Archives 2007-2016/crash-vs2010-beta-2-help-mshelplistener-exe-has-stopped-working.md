@@ -7,6 +7,8 @@ categories:
 tags:
 - vs2010
 comments: true
+aliases:
+    - ../crash-vs2010-beta-2-help-mshelplistener-exe-has-stopped-working.md
 ---
 
 **Update: There is a Microsoft Connect bug logged for this here**.

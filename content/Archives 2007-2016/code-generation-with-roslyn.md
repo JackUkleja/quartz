@@ -6,6 +6,8 @@ categories:
 - Uncategorized
 tags: []
 comments: true
+aliases:
+    - ../code-generation-with-roslyn
 ---
 
 I recently wrote an answer on StackOverflow.com regarding what I've learned doing code generation with Roslyn.

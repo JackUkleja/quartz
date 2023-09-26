@@ -6,6 +6,8 @@ categories:
 - Uncategorized
 tags: []
 comments: true
+aliases:
+    - ../sql-server-2008-express-with-advanced-services-does-not-include-service-pack-1-sp1
 ---
 
 This is a very short post just to say that I spent 10 minutes trying to track down the answer to the question: **Does SQL Server 2008 Express with Advanced Services include Service Pack 1?**

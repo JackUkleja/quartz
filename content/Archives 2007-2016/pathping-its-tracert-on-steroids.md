@@ -6,6 +6,8 @@ categories:
 - Tips &amp; Tricks
 tags: []
 comments: true
+aliases:
+    - ../pathping-its-tracert-on-steroids
 ---
 
 This lesser known command line utility, introduced on Windows 2000, is something of a hybrid between ping and tracert.

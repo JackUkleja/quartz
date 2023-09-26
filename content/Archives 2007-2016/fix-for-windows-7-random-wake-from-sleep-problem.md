@@ -6,6 +6,8 @@ categories:
 - Troubleshooting
 tags: []
 comments: true
+aliases:
+    - ../fix-for-windows-7-random-wake-from-sleep-problem.md
 ---
 
 For the last few months I've had Windows 7 RC installed on two home computers, and both of them have exhibited a strange problem: They would randomly wake from sleep .

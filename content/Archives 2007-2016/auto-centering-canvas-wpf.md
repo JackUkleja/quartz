@@ -6,6 +6,8 @@ categories:
 - wpf
 tags: []
 comments: true
+aliases:
+    - ../auto-centering-canvas-wpf
 ---
 
 

@@ -6,6 +6,8 @@ categories:
 - Uncategorized
 tags: []
 comments: true
+aliases:
+    - ../expression-blend-3-help-the-missing-delegatecommand-class
 ---
 
 

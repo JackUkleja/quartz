@@ -6,6 +6,8 @@ comments: true
 categories:
 - Tips &amp; Tricks
 tags: []
+aliases:
+    - ../utorrent-service-windows-home-server-2011
 ---
 
 ## Step 1: Download and Install uTorrent
