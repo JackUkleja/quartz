@@ -8,6 +8,8 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: 'google', tagId: 'G-GS4PBY98DX'
+      // For https://jackukleja.github.io G-1L3KMW61R9
+      // For https://jack.ukleja.com G-GS4PBY98DX
     },
     baseUrl: "jackukleja.github.io/quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
