@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../auto-centering-canvas-wpf
+    - ../auto-centering-canvas-wpf/
 ---
 
 
