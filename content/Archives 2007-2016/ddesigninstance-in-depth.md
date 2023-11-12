@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../ddesigninstance-in-depth
+    - ../ddesigninstance-in-depth/
 ---
 
 _Update: I have contacted WPF "User education" team at Microsoft about the lack of documentation. The response was:_ 

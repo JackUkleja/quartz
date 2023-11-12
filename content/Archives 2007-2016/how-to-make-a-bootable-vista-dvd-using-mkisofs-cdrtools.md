@@ -8,7 +8,7 @@ tags:
 - vista
 comments: true
 aliases:
-    - ../how-to-make-a-bootable-vista-dvd-using-mkisofs-cdrtools
+    - ../how-to-make-a-bootable-vista-dvd-using-mkisofs-cdrtools/
 ---
 
 

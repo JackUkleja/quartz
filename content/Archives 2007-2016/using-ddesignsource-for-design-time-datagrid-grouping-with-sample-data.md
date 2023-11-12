@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../using-ddesignsource-for-design-time-datagrid-grouping-with-sample-data
+    - ../using-ddesignsource-for-design-time-datagrid-grouping-with-sample-data/
 ---
 
 

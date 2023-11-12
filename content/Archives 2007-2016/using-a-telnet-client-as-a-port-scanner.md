@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../using-a-telnet-client-as-a-port-scanner
+    - ../using-a-telnet-client-as-a-port-scanner/
 ---
 
 If you ever need to check if a TCP port is open or reachable, one easy way to do it is using a telnet client.

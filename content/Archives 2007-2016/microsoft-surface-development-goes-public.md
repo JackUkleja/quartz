@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../microsoft-surface-development-goes-public
+    - ../microsoft-surface-development-goes-public/
 ---
 
 

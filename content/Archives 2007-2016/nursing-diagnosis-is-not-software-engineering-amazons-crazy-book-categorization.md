@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../nursing-diagnosis-is-not-software-engineering-amazons-crazy-book-categorization
+    - ../nursing-diagnosis-is-not-software-engineering-amazons-crazy-book-categorization/
 ---
 
 

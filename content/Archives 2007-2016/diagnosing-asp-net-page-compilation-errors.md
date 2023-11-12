@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../diagnosing-asp-net-page-compilation-errors
+    - ../diagnosing-asp-net-page-compilation-errors/
 ---
 
 Page compilation errors are a common cause of 'yellow screens of death' (YSOD) encountered by ASP.NET developers. During the heat of development it's very easy to ignore the details of these error messages, and instead resolve them with a bit of intuition. But there are limits to intuition. Today I had to drill into one of these errors and I learnt quite a bit along the way.
