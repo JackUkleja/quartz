@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../microsoft-expression-web-3-ui-built-with-wpf-expression-studio-moves-forward
+    - ../microsoft-expression-web-3-ui-built-with-wpf-expression-studio-moves-forward/
 ---
 
 

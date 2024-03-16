@@ -8,7 +8,7 @@ tags:
 - git
 comments: true
 aliases:
-    - ../git-credential-manager-not-working-for-bitbucket
+    - ../git-credential-manager-not-working-for-bitbucket/
 ---
 
 My blog is a static site currently hosted

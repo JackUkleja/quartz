@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../allow-style-elements-tags-within-wordpress-blog-for-inline-css
+    - ../allow-style-elements-tags-within-wordpress-blog-for-inline-css/
 ---
 
 If you trust yourself enough to use the `<style>` tag within your self-hosted WordPress blog then here is how to get them to work:

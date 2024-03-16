@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../direct-download-links-for-sql-server-2008-express
+    - ../direct-download-links-for-sql-server-2008-express/
 ---
 
 I find it a bit annoying that Microsoft are pushing the Web Platform installer so hard these days that they have removed all obvious direct download links for the various SQL Express packages on the ["Express" site](http://www.microsoft.com/express/sql/). Not everyone has the luxury of unmetered downloads – some of us want to archive these installers locally, and not use the Web Platform Installer every time.

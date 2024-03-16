@@ -7,7 +7,7 @@ categories:
 tags: []
 comments: true
 aliases:
-    - ../windows-7-iso-how-to-easily-switch-edition
+    - ../windows-7-iso-how-to-easily-switch-edition/
 ---
 
 There have been quite a [few](http://windows7center.com/news/how-to-install-any-version-or-sku-of-windows-7/) [blog](http://www.askvg.com/how-to-choose-desired-windows-7-edition-version-during-setup/) posts about how to manually switch edition of the Windows 7 ISO, for example to change from Ultimate to Home Premium.
