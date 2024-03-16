@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       // For https://jackukleja.github.io G-1L3KMW61R9
       // For https://jack.ukleja.com G-GS4PBY98DX
     },
-    baseUrl: "jackukleja.github.io/quartz",
+    baseUrl: "jack.ukleja.com",
     locale: "en-US",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
